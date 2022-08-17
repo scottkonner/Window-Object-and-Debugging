@@ -1,8 +1,7 @@
-export function findElementById() {
+export function findElementById(id) {
     // Return the element in the DOM with corresponding `id`
 
     // Your code here
-    return 3
 }
 
 export function findFirstElementOfTag(tag) {
